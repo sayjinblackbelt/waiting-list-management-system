@@ -5,7 +5,7 @@
 **Started:** 2025  
 **Version:** 1.0.0  
 **Status:** Under continuous development  
-**Developer:** Filipe Gimenes de Morais
+**Developer:** Filipe G Morais
 
 ## 💼 Project origin
 
@@ -154,3 +154,13 @@ Implementation should follow applicable privacy and data-protection principles, 
 ## License
 
 This project was developed from a real management and organizational need, with practical, educational, and technical demonstration purposes. A specific open-source license may be defined in a later stage if appropriate.
+
+
+---
+
+## Author
+
+**Filipe G Morais**
+
+GitHub: https://github.com/sayjinblackbelt  
+Repository: https://github.com/sayjinblackbelt/waiting-list-management-system
