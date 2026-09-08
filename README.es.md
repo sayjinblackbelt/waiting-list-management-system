@@ -5,7 +5,7 @@
 **Inicio:** 2025  
 **Versión:** 1.0.0  
 **Estado:** En desarrollo continuo  
-**Desarrollador:** Filipe Gimenes de Morais
+**Desarrollador:** Filipe G Morais
 
 ## 💼 Origen del proyecto
 
@@ -133,3 +133,13 @@ Nunca deben publicarse en GitHub:
 ## Licencia
 
 Proyecto desarrollado a partir de una necesidad real de gestión y organización, con fines prácticos, educativos y de demostración técnica. Una licencia abierta específica podrá definirse posteriormente si resulta adecuada.
+
+
+---
+
+## Autor
+
+**Filipe G Morais**
+
+GitHub: https://github.com/sayjinblackbelt  
+Repository: https://github.com/sayjinblackbelt/waiting-list-management-system
