@@ -26,9 +26,14 @@ jobs:
       - name: Validate project structure
         run: |
           set -euo pipefail
-          test -d backend
-          test -d frontend
           test -d documentacao
+          test -f documentacao/arquitetura.md
+          test -f documentacao/fluxo.md
+          test -f documentacao/formulario.md
+          test -f documentacao/indicadores.md
+          test -f documentacao/planilha.md
+          test -f documentacao/regras-negocio.md
+          test -f documentacao/seguranca.md
 
       - name: Validate Apps Script and web syntax when files exist
         shell: bash
